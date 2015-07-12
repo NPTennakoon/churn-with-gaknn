@@ -1,0 +1,7 @@
+state,accountlength,areacode,internationalplan,voicemailplan,numbervmailmessages,totaldayminutes,totaldaycalls,totaldaycharge,totaleveminutes,totalevecalls,totalevecharge,totalnightminutes,totalnightcalls,totalnightcharge,totalintlminutes,totalintlcalls,totalintlcharge,numbercustomerservicecalls,class,
+UT,133.0,510.0, no, no,0.0,338.4,86.0,57.53,234.6,97.0,19.94,264.8,139.0,11.92,14.8,4.0,4.0,3.0, True.,
+FL,113.0,415.0, no, no,0.0,317.1,97.0,53.91,224.8,70.0,19.11,215.1,90.0,9.68,13.6,2.0,3.67,1.0, True.,
+SD,129.0,408.0, no, no,0.0,52.2,93.0,8.87,128.8,117.0,10.95,141.7,63.0,6.38,9.4,12.0,2.54,1.0, True.,
+NH,131.0,415.0, no, no,0.0,55.5,79.0,9.44,163.5,104.0,13.9,128.1,59.0,5.76,10.1,4.0,2.73,1.0, True.,
+AR,116.0,408.0, no, no,0.0,85.8,88.0,14.59,115.8,112.0,9.84,195.9,91.0,8.82,11.0,2.0,2.97,1.0, True.,
+NJ,77.0,415.0, yes, no,0.0,323.7,106.0,5.03,139.2,99.0,11.83,204.4,89.0,9.2,8.5,3.0,2.3,6.0, True.,

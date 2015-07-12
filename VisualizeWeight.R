@@ -1,0 +1,6 @@
+res<-read.csv('result.csv')
+attach(res)
+png("weightdistribution.png",bg="transparent",width=1250,height=1250)
+#print(plot(attribute,weights))
+print(plot(reorder(attribute,-weights),weights))
+dev.off()

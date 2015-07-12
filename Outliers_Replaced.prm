@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<parameters>
+    <weights>
+        <state>7.798368396444769</state>
+        <accountlength>7.609194350990403</accountlength>
+        <areacode>0.0354324730299449</areacode>
+        <internationalplan>4.945443099897627</internationalplan>
+        <voicemailplan>5.5950716534184375</voicemailplan>
+        <numbervmailmessages>9.507844485224386</numbervmailmessages>
+        <totaldayminutes>0.14850097037361287</totaldayminutes>
+        <totaldaycalls>7.734671127276903</totaldaycalls>
+        <totaldaycharge>4.941560292556875</totaldaycharge>
+        <totaleveminutes>1.9741488700500143</totaleveminutes>
+        <totalevecalls>1.7879179654304955</totalevecalls>
+        <totalevecharge>8.994309384371167</totalevecharge>
+        <totalnightminutes>2.0385063577042506</totalnightminutes>
+        <totalnightcalls>6.085344354003111</totalnightcalls>
+        <totalnightcharge>8.008901427316363</totalnightcharge>
+        <totalintlminutes>3.5242064794172103</totalintlminutes>
+        <totalintlcalls>3.230923450800225</totalintlcalls>
+        <totalintlcharge>4.522618254074683</totalintlcharge>
+        <numbercustomerservicecalls>4.422479329885252</numbercustomerservicecalls>
+    </weights>
+    <k>
+        <value>1</value>
+    </k>
+</parameters>

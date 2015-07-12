@@ -1,0 +1,7 @@
+    areacode    
+ Min.   :408.0  
+ 1st Qu.:408.0  
+ Median :415.0  
+ Mean   :437.2  
+ 3rd Qu.:510.0  
+ Max.   :510.0  

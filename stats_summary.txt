@@ -1,0 +1,62 @@
+[1] "state"
+AK AL AR AZ CA CO CT DC DE FL GA HI IA ID IL IN KS KY LA MA MD ME MI MN MO MS 
+22 36 17 29 13 26 15 22 27 34 28 18 17 24 16 27 29 19 21 23 25 28 28 32 33 19 
+MT NC ND NE NH NJ NM NV NY OH OK OR PA RI SC SD TN TX UT VA VT WA WI WV WY 
+22 18 17 24 13 26 22 29 26 24 24 29 16 24 15 18 13 29 25 25 30 17 25 31 29 
+[1] "accountlength"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+    1.0    73.0    98.0   100.1   128.0   243.0 
+[1] "areacode"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  408.0   408.0   415.0   437.8   510.0   510.0 
+[1] "internationalplan"
+  no  yes 
+1079  120 
+[1] "voicemailplan"
+  no  yes 
+ 856  343 
+[1] "numbervmailmessages"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.000   0.000   0.000   8.359  21.500  51.000 
+[1] "totaldayminutes"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   12.5   147.0   182.9   181.8   216.4   350.8 
+[1] "totaldaycalls"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   30.0    88.0   101.0   100.4   113.0   165.0 
+[1] "totaldaycharge"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   2.13   25.00   31.09   30.90   36.78   59.64 
+[1] "totaleveminutes"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   31.2   164.6   200.3   199.3   234.0   351.6 
+[1] "totalevecalls"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+     12      87     101     100     114     168 
+[1] "totalevecharge"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   2.65   13.98   17.03   16.94   19.88   29.89 
+[1] "totalnightminutes"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   43.7   166.8   200.1   199.7   236.6   364.3 
+[1] "totalnightcalls"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   42.0    86.5   101.0   100.0   114.0   175.0 
+[1] "totalnightcharge"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  1.970   7.505   9.000   8.988  10.650  16.390 
+[1] "totalintlminutes"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   0.00    8.40   10.20   10.22   12.10   20.00 
+[1] "totalintlcalls"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.000   3.000   4.000   4.541   6.000  19.000 
+[1] "totalintlcharge"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   0.00    2.27    2.75    2.76    3.27    5.40 
+[1] "numbercustomerservicecalls"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.000   1.000   1.000   1.542   2.000   9.000 
+[1] "class"
+ False.   True. 
+   1050     149 

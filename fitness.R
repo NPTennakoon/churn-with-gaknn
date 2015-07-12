@@ -1,0 +1,7 @@
+fit<-read.csv('fitness.csv')
+attach(fit)
+library(ROCR)
+png("fitnessdistribution.png",bg="transparent",width=500,height=500)
+#print(plot(fit))
+print(plot(gen,Fitness,main="fitness distribution",type="l"))
+dev.off()
